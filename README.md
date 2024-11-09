@@ -9,7 +9,6 @@ Es una plataforma de gestión financiera personal diseñada para ayudar a los us
 - **Acceso Seguro**: Gestiona tus datos financieros de manera segura con los últimos estándares de encriptación.
 
 ## Instalación ⚙️
-### Backend 
 
 1. **Clonar el repositorio**
 ```
