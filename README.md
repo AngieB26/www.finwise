@@ -9,18 +9,20 @@ Es una plataforma de gestión financiera personal diseñada para ayudar a los us
 - **Acceso Seguro**: Gestiona tus datos financieros de manera segura con los últimos estándares de encriptación.
 
 ## Instalación ⚙️
+### Backend 
 
-Para comenzar a trabajar con **FinWise**, sigue estos pasos:
-
-### 1. Clonar el repositorio
+1. **Clonar el repositorio**
 ```
 git clone https://github.com/AngieB26/www.finwise.git
 ```
-### 2. Navegar al directorio
+2. **Navegar al directorio**
 ```
 cd www.finwise
 ```
-### 3. Instalar las dependencias
+3. **Instalar las dependencias**
 ```
 npm install
 ```
+4. **Configurar las variables de entorno**
+5. **Iniciar el Backend**
+
