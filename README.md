@@ -23,6 +23,4 @@ cd www.finwise
 ```
 npm install
 ```
-4. **Configurar las variables de entorno**
-5. **Iniciar el Backend**
 
